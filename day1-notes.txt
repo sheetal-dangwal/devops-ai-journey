@@ -1,0 +1,8 @@
+What Git is:
+Git is a distributed version control system that tracks changes in code and files, allowing multiple people to collaborate, maintain history, and safely roll back to previous versions.
+
+Why DevOps uses version control:
+DevOps uses version control to keep infrastructure, scripts, and application code consistent, auditable, and reproducible across environments, enabling automation and CI/CD pipelines.
+
+One thing I learned today:
+I learned how to create a GitHub repository, clone it locally, and make my first commit to start building a professional DevOps portfolio.
